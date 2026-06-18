@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jifunze Kiswahili</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>Jifunze Kiswahili</h1>
+<p>Kiswahili kwa Kijerumani, Kifaransa, Kichina na Kiarabu</p>
+</header>
+
+<nav>
+<a href="index.html">Nyumbani</a>
+<a href="salamu.html">Salamu</a>
+<a href="kujitambulisha.html">Kujitambulisha</a>
+</nav>
+
+<section>
+<h2>Karibu</h2>
+<p>Website hii inakusaidia kujifunza Kiswahili hatua kwa hatua.</p>
+</section>
+
+</body>
+</html>

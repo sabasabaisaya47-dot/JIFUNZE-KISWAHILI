@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+<meta charset="UTF-8">
+<title>Kujitambulisha</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Kujitambulisha</h1>
+
+<table>
+<tr>
+<th>Kiswahili</th>
+<th>Kijerumani</th>
+<th>Kifaransa</th>
+<th>Kichina</th>
+<th>Kiarabu</th>
+</tr>
+
+<tr>
+<td>Jina langu ni...</td>
+<td>Ich heiße...</td>
+<td>Je m'appelle...</td>
+<td>我叫...</td>
+<td>اسمي...</td>
+</tr>
+
+<tr>
+<td>Ninatoka Tanzania</td>
+<td>Ich komme aus Tansania</td>
+<td>Je viens de Tanzanie</td>
+<td>我来自坦桑尼亚</td>
+<td>أنا من تنزانيا</td>
+</tr>
+
+</table>
+
+</body>
+</html>
