@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+<meta charset="UTF-8">
+<title>Salamu</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Salamu za Kiswahili</h1>
+
+<table>
+<tr>
+<th>Kiswahili</th>
+<th>Kijerumani</th>
+<th>Kifaransa</th>
+<th>Kichina</th>
+<th>Kiarabu</th>
+</tr>
+
+<tr>
+<td>Habari</td>
+<td>Hallo</td>
+<td>Bonjour</td>
+<td>你好</td>
+<td>مرحبا</td>
+</tr>
+
+<tr>
+<td>Asante</td>
+<td>Danke</td>
+<td>Merci</td>
+<td>谢谢</td>
+<td>شكراً</td>
+</tr>
+
+<tr>
+<td>Kwaheri</td>
+<td>Auf Wiedersehen</td>
+<td>Au revoir</td>
+<td>再见</td>
+<td>مع السلامة</td>
+</tr>
+
+</table>
+
+</body>
+</html>
